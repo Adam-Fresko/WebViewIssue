@@ -1,0 +1,5 @@
+<WebView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/webView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"/>
+    <!-- layout_height="wrap_content" required for the issue to occur-->
